@@ -1,6 +1,6 @@
 # Airborne demo
 
-Project to demo some Airborne functions
+Project to demo some Airborne features
 
 ## Slide
 https://docs.google.com/presentation/d/1JJT11k-XMRNMitMzxlFsJpwsQU1MIIdUXP6HnTJjfkY/edit?usp=sharing
